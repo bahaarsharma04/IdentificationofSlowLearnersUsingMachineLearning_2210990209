@@ -3,7 +3,7 @@
 
 **Author:** Bahaar Sharma (2210990209)  
 **Supervisor:** Dr. Gurpreet Singh  
-**Institution:** Department of Computer Science and Engineering, Chitkara University, Punjab  
+**Institution:** Department of Computer Science and Engineering, Chitkara University, Punjab   
 
 ---
 
